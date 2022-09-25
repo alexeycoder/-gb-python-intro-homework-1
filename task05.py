@@ -93,7 +93,7 @@ def ask_for_repeat():
 user_answer = True
 
 while(user_answer):
-    # console_clear()
+    console_clear()
     print_title('Вычисление расстояния между точками А и Б на плоскости')
 
     print('Введите координаты точки А:')

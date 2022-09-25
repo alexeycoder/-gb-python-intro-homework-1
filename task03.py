@@ -106,7 +106,7 @@ def ask_for_repeat():
 user_answer = True
 
 while(user_answer):
-    # console_clear()
+    console_clear()
     print_title(
         'Определение номера четверти плоскости XY\n(где X и Y \u2014 горизонтальная и вертикальная оси соответственно)')
 
